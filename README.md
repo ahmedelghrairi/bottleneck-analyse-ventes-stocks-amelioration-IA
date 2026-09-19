@@ -24,7 +24,7 @@ Les informations produits de BottleNeck sont réparties entre un ERP (référenc
 
 ## Les données
 
-Les trois fichiers sources (ERP, web, liaison) sont fournis dans le cadre de la formation et ne sont pas publiés dans ce dépôt. Le notebook attend trois fichiers Excel dans un dossier `data/` : l'export ERP, l'export web et la table de liaison.
+Les trois fichiers sources sont publiés dans le dossier `data/` : l'export ERP, l'export web et la table de liaison.
 
 ## Limites assumées
 
