@@ -34,7 +34,7 @@ Un seul mois de données, donc aucune tendance ni saisonnalité. TVA supposée u
 ```
 pip install -r requirements.txt
 ```
-Déposer les trois fichiers Excel dans `data/`, ouvrir le notebook et lancer « Redémarrer et tout exécuter ».
+Les trois fichiers Excel sont déjà dans `data/`. Ouvrir le notebook et lancer « Redémarrer et tout exécuter ».
 
 ## Auteur
 
